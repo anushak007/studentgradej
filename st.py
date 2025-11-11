@@ -17,10 +17,5 @@ else:
 total = m1+m2+m3+m4+m5
 avg = (total)/5    
 
-print("marks for subject 1:",m1)
-print("marks for subject 2:",m2)
-print("marks for subject 3:",m3)
-print("marks for subject 4:",m4)
-print("marks for subject 5:",m5)
 print("The total marks is: ",total)
 print("The Avg is: ", avg)
